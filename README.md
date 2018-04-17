@@ -13,7 +13,7 @@ then you will get the information via email.
 INSTALLATION
 ---
 ```shell
-git clone https://github.com/hansi96/imgur_fav_downloader.git
+git clone https://github.com/hahahannes/imgur_fav_downloader.git
 cd imgur_fav_downloader
 python3 setup.py develop 
 ```
